@@ -5,7 +5,7 @@ Image for gitlab-ci. This image help deploy projects with docker-compose to remo
 
 Deploy to remote server without copy any files to remote server.
 
-You use docker-compose with `-H` parametr to set remote machine for run containers defined in docker-file.yml.
+You use docker-compose with `-H` parametr to set remote machine for run containers defined in docker-compose.yml.
 
 ## How to use?
 

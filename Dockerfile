@@ -1,4 +1,4 @@
-FROM docker:latest
+FROM docker:27.3.1
 
 RUN apk update
 RUN apk upgrade
